@@ -9,9 +9,9 @@ Just playing around and getting a first feel of aframe and VR
 
 ### Second project: Nexxworks
 
-Inpsiration:
+**Inpsiration:**
 
 ![logo Nexxworks](https://github.com/lanckrietvictor/Playing-around-with-aframe/blob/master/Readme%20Photos/nexxworksLogo.png)
 
-Result:
+**Result:**
 ![result with aframe](https://github.com/lanckrietvictor/Playing-around-with-aframe/blob/master/Readme%20Photos/VR%20screenshot.png)
